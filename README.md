@@ -2,7 +2,7 @@
 - 🔭 I’m currently a student at Ho Chi Minh City University of Technology and I am studying major Computer Engineering.
 - 🌱 I love embedded systems and IoTs as well as hardware design verification.
 - Most used language: C/C++, Verilog, SystemVerilog
-- Tools: VSCode, Git, Matlab, Vivado
+- Tools: VSCode, Git, Matlab, Vivado, ModelSim
 <!--
 **hieule275/hieule275** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
